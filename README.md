@@ -51,7 +51,7 @@ If you already have an English `.srt` file and only want to translate it to Hebr
 PowerShell example:
 
 ```powershell
-python .\subtitle_translator.py .\Gangs.Of.Beit-Lehem.S03E05.1080p.WEBRip.10bit.DDP5.1.x265-HODL.srt translated.srt
+python .\subtitle_translator.py .\Hor.basveder.S03E05.1080p.WEBRip.10bit.DDP5.1.x265-HODL.srt translated.srt
 ```
 
 If you don't want to save the output file, pass `none` as the `output.srt` argument and the script will skip saving.
@@ -59,5 +59,5 @@ If you don't want to save the output file, pass `none` as the `output.srt` argum
 Example translating without saving:
 
 ```powershell
-python .\subtitle_translator.py .\Gangs.Of.London.S03E05.1080p.WEBRip.10bit.DDP5.1.x265-HODL.srt none
+python .\subtitle_translator.py .\Hor.basveder.S03E05.1080p.WEBRip.10bit.DDP5.1.x265-HODL.srt none
 ```
